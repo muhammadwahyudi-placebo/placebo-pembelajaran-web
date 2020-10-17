@@ -1,2 +1,2 @@
 # placebo-pembelajaran-web
-ini adalah hasil codingan pembelajaran pemrograman web
+Repository ini adalah hasil codingan pembelajaran pemrograman web
